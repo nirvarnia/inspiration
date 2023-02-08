@@ -17,5 +17,6 @@ The purpose of this repository is to capture snapshots of GUIs that we find insp
 
 - [Blog archives](./layouts/blog-archives)
 - [Documentation](./layouts/documentation)
+- [Login](./layouts/login)
 
 ### Themes
