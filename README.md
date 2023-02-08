@@ -14,6 +14,7 @@ The purpose of this repository is to capture snapshots of GUIs that we find insp
 ### Components
 
 - [Boxes](./elements/boxes)
+- [Captcha](./elements/captcha)
 
 ### Layouts
 
