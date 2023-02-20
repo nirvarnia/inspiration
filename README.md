@@ -10,6 +10,7 @@ The purpose of this repository is to capture snapshots of GUIs that we find insp
 
 - [Buttons](./elements/buttons)
 - [Input fields](./elements/input-fields)
+- [Text](./elements/text)
 
 ### Components
 
